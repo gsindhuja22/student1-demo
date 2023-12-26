@@ -9,8 +9,10 @@ invoice_data = {
         {"description": "Item 1", "quantity": 2, "price": 10},
         {"description": "Item 2", "quantity": 1, "price": 20},
         # Add more items as needed
+        # add more items in a table format as neededgit
     ],
-    "total": 40  # Total amount
+    "total": 40 
+    "author":'abcd' # Total amount
 }
 
 # Create HTML template using Jinja2-style placeholders
