@@ -8,10 +8,11 @@ invoice_data = {
     "items": [
         {"description": "Item 1", "quantity": 2, "price": 10},
         {"description": "Item 2", "quantity": 1, "price": 20},
+        {"description": "Item 3", "quantity": 5, "price": 30},
         # Add more items as needed
         # add more items in a table format as neededgit
     ],
-    "total": 40 
+    "total": 60 
     "author":'abcd' # Total amount
 }
 
